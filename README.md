@@ -8,4 +8,4 @@ Repository ini berisi kode untuk scraping data berita dari JPnn menggunakan Pyth
 Akhmad Dany - 23031554234 (Sains Data 2023E
 
 
-Link : https://www.jpnn.com/daerah(page 1-3)
+Link : https://www.jpnn.com/daerah (page 1-3)
